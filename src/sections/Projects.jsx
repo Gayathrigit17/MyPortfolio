@@ -5,9 +5,9 @@ const projects = [
    {
     title: "E-Commerce Platform",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "Built a responsive web storefront using Next.js app router and React components \n Created a shared layout, metadata, and navigation structure with layout.tsx \n Styled the UI using Tailwind CSS and configured ESLint for code quality \n Implemented modern frontend tooling with TypeScript, next, react, and react-dom",
     image: "/projects/project2.png",
-    tags: ["React.js", "Node JS", "MySQL", "Tailwind", "Bootstrap"],
+    tags: ["React.js", "Next JS", "MySQL", "TypeScript", "TailwindCSS"],
     link: "#",
     github: "#",
   },

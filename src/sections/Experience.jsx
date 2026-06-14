@@ -4,8 +4,8 @@ const experiences = [
     role: "System Engineer",
     company: "TATA Consultancy Services",
     description:
-      "Leading frontend architecture for a suite of fintech products. Implemented micro-frontend architecture, reduced bundle size by 40%, and mentored a team of 5 developers.",
-    technologies: ["React", "TypeScript", "Next.js", "GraphQL"],
+      "Engineered an agentic AI automation framework using Python, LangGraph, and Playwright to automate browser-based SOE deployment workflows on AWS EC2 across 25+ applications, replacing manual UI operations with intelligent agents and reducing per-deployment execution time by 33\%.",
+    technologies: ["React", "TypeScript", "LangGraph", "Python", "Playwright"],
     current: true,
   },
   {
@@ -13,7 +13,7 @@ const experiences = [
     role: "Assistant System Engineer",
     company: "TATA Consultancy Services",
     description:
-      "Contributed to the development of a SaaS platform from MVP to production. Collaborated with designers to implement pixel-perfect UI components.",
+      "Led React.js version upgrade from v10 to v16 on QGSP, a payment-related enterprise application resolved breaking changes, deprecated API replacements, and third-party library conflicts across 15 components, validated through unit testing .",
     technologies: ["React", "Node.js", "MongoDB", "AWS"],
     current: false,
   },
@@ -22,7 +22,7 @@ const experiences = [
     role: "Graduate Trainee",
     company: "TATA Consultancy Services",
     description:
-      "Delivered custom web solutions for small businesses and startups. Built 15+ websites and applications, handling everything from design to deployment.",
+      "Contributed to feature development and UI enhancements on Emstaff Leave Management System, a legacy Java Struts and JSP enterprise application, navigating complex undocumented codebases to deliver business-requested changes.",
     technologies: ["JavaScript", "JSP", "MySQL", "Figma"],
     current: false,
   },

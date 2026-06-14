@@ -77,7 +77,7 @@ export const Hero = () =>{
                         </span>
                     </h1>
                     <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-800">
-                        Hi, I'm Gayathri a software Engineer specializing in React, Next.js and Typescript. I build scalable a performant web application that user love
+                        Hi, I'm Gayathri a software Engineer specializing in Reactjs ,nodejs and Javascript. I build scalable a performant web application that user love
                     </p>
                     </div>
 
